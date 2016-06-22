@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/pop_favorite"
+        android:title="收藏"
+        android:icon="@drawable/ic_action_star"/>
+
+    <item
+        android:id="@+id/pop_share_sina"
+        android:title="新浪微博分享"
+        android:icon="@drawable/ic_action_share"/>
+
+    <item
+        android:id="@+id/pop_share"
+        android:title="系统分享"
+        android:icon="@drawable/ic_action_share"/>
+
+    <item
+        android:id="@+id/pop_delete"
+        android:title="删除"
+        android:icon="@drawable/ic_action_share"/>
+
+</menu>  

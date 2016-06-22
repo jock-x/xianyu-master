@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">鱼塘</string>
+    <string name="app_copyright">Copyright ©2016 版权所有</string>
+
+    <string name="tab_home">主页</string>
+    <string name="tab_msg">消息</string>
+    <string name="tab_mine">我</string>
+
+    <string name="ok">确认</string>
+    <string name="cancel">取消</string>
+    <string name="about">关于</string>
+    <string name="exit">退出</string>
+    <string name="wechat">团队：atoc</string>
+
+    <string name="title_github">GitHub主页</string>
+    <string name="title_jianshu">简书主页</string>
+    <string name="title_blog">个人博客</string>
+    <string name="title_weibo">新浪微博</string>
+
+    <string name="url_github">https://github.com/sfsheng0322</string>
+    <string name="url_jianshu">http://www.jianshu.com/users/88509e7e2ed1/latest_articles</string>
+    <string name="url_blog">http://sunfusheng.com/</string>
+    <string name="url_weibo">http://weibo.com/u/3852192525</string>
+
+    <string name="update_app">鱼塘更新</string>
+    <string name="update_rightnow">立即下载</string>
+    <string name="update_no">暂不</string>
+    <string name="new_version_yet">已是最新版本</string>
+
+    <string name="menu_square_bingo">鱼塘</string>
+    <string name="menu_my_bingo">我的出售</string>
+    <string name="menu_my_favorite">我的收藏</string>
+    <string name="menu_change_theme">设置主题</string>
+    <string name="menu_send_to_friend">发送给好友</string>
+    <string name="menu_share">分享</string>
+    <string name="menu_feedback">反馈</string>
+    <string name="menu_about">关于</string>
+
+    <string name="action_check_update">检查更新</string>
+    <string name="action_settings">设置</string>
+    <string name="action_logout">退出登录</string>
+    <string name="action_notification">通知消息</string>
+
+    <string name="share_text">鱼塘是一个二手交易市场，在这里你可以进行二手物品添加可二手物品交易，在这里您也可以发布你的二手物品。</string>
+    <string name="download_url" >下载地址</string>
+    <string name="share">分享到</string>
+    <string name="no_email_app_tip">请先安装邮件应用并设置账户，或直接发送邮件至864015769@qq.com</string>
+    <string name="transfer_apk_to_friend">发送%1$s安装包给好友</string>
+
+    <string name="please_choose">请选择</string>
+    <string name="copy_message">复制</string>
+    <string name="delete_message">删除</string>
+
+    <string name="msg_now">片刻之前</string>
+    <string name="msg_today">今天</string>
+    <string name="msg_yesterday">昨天</string>
+    <string name="msg_few_minutes_ago">分钟前</string>
+    <string name="msg_male">男</string>
+    <string name="msg_female">女</string>
+    <string name="msg_gender_unknown">未知</string>
+
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_hint_loading">正在加载...</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+
+    <string name="hint_input_website">请输入文章有效链接</string>
+    <string name="hint_input_price">请输入价格</string>
+    <string name="hint_input_website_available">链接不可用哦</string>
+    <string name="hint_input_describe">请输入文章标题或描述</string>
+
+    <string name="toast_exit_tip">再按一次退出鱼塘</string>
+
+    <string name="no_data">暂无数据</string>
+    <string name="load_data_fail">加载失败</string>
+    <string name="load_data_adequate">没有更多啦</string>
+    <string name="loading_data">加载中...</string>
+    <string name="no_favorite_data">您还没有收藏任何鱼仔哦</string>
+    <string name="no_my_bingo_data">您还没有提交任何鱼仔哦</string>
+    <string name="open_by_explore">使用浏览器打开</string>
+    <string name="weibo_token_format">Token：%1$s \n有效期：%2$s</string>
+
+</resources>
